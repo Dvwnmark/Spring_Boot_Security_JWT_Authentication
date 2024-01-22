@@ -6,4 +6,5 @@ USER :
 
 ![Alt text](img/jwt2.png)
 
-Thông tin:
+Thông tin token của user trên web jwt:
+![Alt text](img/jwt3.png)
